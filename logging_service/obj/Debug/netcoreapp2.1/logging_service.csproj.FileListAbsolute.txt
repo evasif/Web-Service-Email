@@ -1,0 +1,11 @@
+/Users/evasif/Documents/Tolvunarfraedi/Vefþjónustur/SmallAssignmentIV/template/logging_service/obj/Debug/netcoreapp2.1/logging_service.csprojAssemblyReference.cache
+/Users/evasif/Documents/Tolvunarfraedi/Vefþjónustur/SmallAssignmentIV/template/logging_service/obj/Debug/netcoreapp2.1/logging_service.csproj.CoreCompileInputs.cache
+/Users/evasif/Documents/Tolvunarfraedi/Vefþjónustur/SmallAssignmentIV/template/logging_service/obj/Debug/netcoreapp2.1/logging_service.AssemblyInfoInputs.cache
+/Users/evasif/Documents/Tolvunarfraedi/Vefþjónustur/SmallAssignmentIV/template/logging_service/obj/Debug/netcoreapp2.1/logging_service.AssemblyInfo.cs
+/Users/evasif/Documents/Tolvunarfraedi/Vefþjónustur/SmallAssignmentIV/template/logging_service/bin/Debug/netcoreapp2.1/logging_service.deps.json
+/Users/evasif/Documents/Tolvunarfraedi/Vefþjónustur/SmallAssignmentIV/template/logging_service/bin/Debug/netcoreapp2.1/logging_service.runtimeconfig.json
+/Users/evasif/Documents/Tolvunarfraedi/Vefþjónustur/SmallAssignmentIV/template/logging_service/bin/Debug/netcoreapp2.1/logging_service.runtimeconfig.dev.json
+/Users/evasif/Documents/Tolvunarfraedi/Vefþjónustur/SmallAssignmentIV/template/logging_service/bin/Debug/netcoreapp2.1/logging_service.dll
+/Users/evasif/Documents/Tolvunarfraedi/Vefþjónustur/SmallAssignmentIV/template/logging_service/bin/Debug/netcoreapp2.1/logging_service.pdb
+/Users/evasif/Documents/Tolvunarfraedi/Vefþjónustur/SmallAssignmentIV/template/logging_service/obj/Debug/netcoreapp2.1/logging_service.dll
+/Users/evasif/Documents/Tolvunarfraedi/Vefþjónustur/SmallAssignmentIV/template/logging_service/obj/Debug/netcoreapp2.1/logging_service.pdb
