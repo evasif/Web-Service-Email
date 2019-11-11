@@ -13,7 +13,7 @@
   "dependencies": {
     "amqplib": "^0.5.2",
     "express": "^4.16.4",
-    "mongoose": "^5.3.7"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "nodemon": "^1.18.5"
