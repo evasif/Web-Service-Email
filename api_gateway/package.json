@@ -13,7 +13,7 @@
 	"dependencies": {
 		"amqplib": "^0.5.2",
 		"body-parser": "^1.18.3",
-		"express": "^4.16.4"
+		"express": "^4.17.3"
 	},
 	"devDependencies": {
 		"nodemon": "^1.18.4"
